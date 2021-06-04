@@ -1,12 +1,12 @@
 body {
     text-align: center;
-    color: #ffffff;
+    color: white;
 
     background-image: linear-gradient(to right, #0C0846, #11BBCB, #86F3FE);
 }
 
 h1 {
-    color: #FFFFFF;
+    color: white;
     font-family: 'Merriweather', serif;
 
     border: solid, 2px;
@@ -50,7 +50,7 @@ span {
 
 .links {
 
-    color: black;
+    color: white;
     padding-top: 5px;
     padding-left: 9px;
     padding-right: 9px;
