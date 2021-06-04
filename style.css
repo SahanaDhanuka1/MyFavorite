@@ -60,13 +60,16 @@ span {
     border-right: 1px solid #bbb;
 
 }
-.links hover {
+.links:hover {
 
-background-color: aliceblue;
+background-color: dodgerblue;
 }
 
 .active {
-    background-color: aliceblue;
+    background-color: dodgerblue;
+}
+.socialmedia p{
+    display:inline;
 }
 html {
     scroll-behavior: smooth;
