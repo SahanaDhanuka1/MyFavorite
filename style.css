@@ -57,5 +57,7 @@ span {
     font-family: cursive;
 
 }
-
+html {
+    scroll-behavior: smooth;
+}
 
